@@ -1,0 +1,16 @@
+{
+    "version": "3.1.4",
+    "description": "An open-source build automation tool focused on flexibility and performance. (Source code and documentation boundled)",
+    "homepage": "https://gradle.org",
+    "license": "Apache-2.0",
+    "hash": "ed7e9c8bb41bd10d4c9339c95b2f8b122f5bf13188bd90504a26e0f00b123b0d",
+    "url": "https://downloads.gradle.org/distributions/gradle-3.4.1-all.zip",
+    "extract_dir": "gradle-3.1.4",
+    "bin": "bin\\gradle.bat",
+    "suggest": {
+        "JDK": [
+            "java/oraclejdk",
+            "java/openjdk"
+        ]
+    }
+}
